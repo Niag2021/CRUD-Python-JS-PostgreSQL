@@ -1,0 +1,19 @@
+pip es un manejador de paquetes 
+pip --version (para ver la version de pip) 
+------------------------------------------------
+Crea entornos virtuales. 
+*En windows* 
+python -m venv env (de nombre env) o py -m venv env
+*En Linux o Mac* 
+python -m venv env (de nombre env)
+------------------------------------------------
+Ingresar/activar al entorno virtual. 
+*En Linux o Mac* 
+source env/bin/activate
+*En windows* 
+------------------------------------------------
+pip install flask psycopg2 
+pip freeze (ver paquetes instalados)
+------------------------------------------------
+
+------------------------------------------------
