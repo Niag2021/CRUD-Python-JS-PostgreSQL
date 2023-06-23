@@ -1,6 +1,6 @@
 
 from psycopg2 import connect
-host="0.0.0.0"
+host="127.0.0.1"
 port=5432
 dbname="pg_webtareas"
 user="postgres"

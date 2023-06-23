@@ -1,3 +1,4 @@
+from unittest import result
 from db import cadenaConexion
 
 def listadoTareas():
